@@ -45,5 +45,8 @@ Our crowdfunding DApp enables project creators to raise capital directly from a 
 - **Contract Address**: 0x20582f1aA08b61143990dEB9820fc8e436730f0C
 - **Verified Contract**: [Frax Testnet Verification](https://holesky.fraxscan.com/address/0x20582f1aA08b61143990dEB9820fc8e436730f0C)
 https://holesky.fraxscan.com/address/0x20582f1aA08b61143990dEB9820fc8e436730f0C
+![image](https://github.com/kaiesamurai/crowdfunding-on-Frx/assets/96937608/98ddc1f7-1c85-4967-bc68-eb7647f64a04)
+![image](https://github.com/kaiesamurai/crowdfunding-on-Frx/assets/96937608/961019ec-0dbc-4cc0-b33f-c01ac998ca9e)
+
 
 Thank you for using our FrxRise Crowdfunding DApp.
